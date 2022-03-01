@@ -15,7 +15,7 @@
 과제 내용을 간략히 기술
 
 ## 과제 스크린샷, ERD 다이어그램 등
-   <img src="architecture.PNG"/><br>
+   <img src="architecture.png"/><br>
    
    <img src="erd.JPG"/><br>
 
@@ -31,7 +31,7 @@
 과제 내용을 간략히 기술
 
 ## 과제 스크린샷,  ERD 다이어그램 등
-   <img src="architecture.PNG"/><br>
+   <img src="architecture.png"/><br>
    
    <img src="erd.JPG"/><br>
    
