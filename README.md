@@ -15,7 +15,9 @@
 과제 내용을 간략히 기술
 
 ## 과제 스크린샷, ERD 다이어그램 등
-   <img src="ppt.JPG"/><br>
+   <img src="architecture.PNG"/><br>
+   
+   <img src="erd.JPG"/><br>
 
 ## 발표 ppt
    <img src="ppt.JPG"/>[발표자료](/project.pptx)<br>
@@ -29,7 +31,9 @@
 과제 내용을 간략히 기술
 
 ## 과제 스크린샷,  ERD 다이어그램 등
-   <img src="ppt.JPG"/><br>
+   <img src="architecture.PNG"/><br>
+   
+   <img src="erd.JPG"/><br>
    
 ## 발표 ppt
    <img src="ppt.JPG"/>[발표자료](/project.pptx)<br>
